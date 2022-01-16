@@ -1,0 +1,2 @@
+# wordleAI
+Solves Wordle puzzles
